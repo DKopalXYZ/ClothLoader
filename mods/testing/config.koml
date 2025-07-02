@@ -2,3 +2,4 @@
 name = "Just a testing mod"
 author = "DKopal"
 version = "1.0.0"
+[config.scripts]; main.js
